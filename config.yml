@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: config
 #端口号
 server:
   port: 8899
